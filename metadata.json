@@ -1,0 +1,6 @@
+{
+  "name": "Söder & Sax",
+  "description": "Exklusiv ateljé för klassiskt herrgrooming, precisionsklippning och traditionell knivrakning på Södermalm i Stockholm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
