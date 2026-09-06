@@ -86,7 +86,7 @@ export const BARBERS: Barber[] = [
   },
   {
     id: "elias-lindqvist",
-    name: "Elias Lindqvist",
+    name: "Leonardo Lindqvist",
     role: "Master Barber & Grundare",
     experience: "12 års erfarenhet",
     specialty: "Klassiska frisyrer, saxarkitektur & texturering",
